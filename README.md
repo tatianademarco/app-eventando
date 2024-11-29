@@ -1,4 +1,4 @@
-## Aplicativo Mobile para Gerenciamneto de Festas e Eventos
+## Aplicativo Mobile para Gerenciamento de Festas e Eventos
 Este repositório contém o código-fonte de um aplicativo mobile para gerenciamento de eventos. Desenvolvido em React Native, o projeto tem como objetivo facilitar a organização de eventos, oferecendo funcionalidades como criação de eventos, cadastro de convidados, controle de orçamento e gestão de fornecedores.
 
 ## Funcionalidades Principais
